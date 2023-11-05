@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-Uses whatI did in the task #0 https://jsonplaceholder.typicode.com along with an employee ID to
-return information about the employee's todo list progress
+Uses what I did in the task #0 https://jsonplaceholder.typicode.com along with
+an employee ID to return information about the employee's todo list progress
 """
 
 import json
